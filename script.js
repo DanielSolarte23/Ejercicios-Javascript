@@ -259,7 +259,7 @@ if (diaSemana == "domingo" || diaSemana == "sabado"){
 //             break;
 //     }
 // }
-
+ 
 //EJERCICIO 2.2
 
 // let diaSemana = prompt("Ingrese un numero del 1 a 7");
