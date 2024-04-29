@@ -575,26 +575,26 @@ console.log(i);
 // }
 
 // EJERCICIO 3.5
+/* 
+function fibonacci(n) {
+    let fib = [];
+    let i = 0;
 
-// function fibonacci(n) {
-//     let fib = [];
-//     let i = 0;
+    while (i < n) {
+        if (i <= 1) {
+            fib.push(i);
+        } else {
+            fib.push(fib[i - 1] + fib[i - 2]);
+        }
+        i++;
+    }
 
-//     while (i < n) {
-//         if (i <= 1) {
-//             fib.push(i);
-//         } else {
-//             fib.push(fib[i - 1] + fib[i - 2]);
-//         }
-//         i++;
-//     }
+    return fib;
+}
 
-//     return fib;
-// }
-
-// let n = 10;
-// let resultado = fibonacci(n);
-// console.log(resultado);
+let n = 10;
+let resultado = fibonacci(n);
+console.log(resultado); */
 
 // EJERCICIO 3.6
 
